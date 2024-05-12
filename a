@@ -6,13 +6,18 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>Магазин пончиков</title>
 </head>
-<style>
-/* Стили пиши здесь :) */
 
-</style>
-<body>
-<h1> Привет алгоритмика </h1>
+    <head> </head>
+    <style> 
+        h1{
+            color:red;
+            background-color: green;
+            border:5px solid black;
+        }
 
-
-</body>
+    </style>
+    <body>
+        <h1> Мир поничков </h1>
+        <p> Почему вам стоит зайти в мир Пончиков ? </p>
+    </body>
 </html>
